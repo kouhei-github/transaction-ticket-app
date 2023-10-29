@@ -13,8 +13,8 @@ export default function Footer() {
 
   const footerLinks: FooterLink[] = [
     {
-      title: "チケットヴィレッジについて",
-      urls: [{name: "運営会社", url: "https://www.leadi.co.jp"}]
+      title: "チケットリンカーについて",
+      urls: [{name: "運営会社", url: "https://tecklinker.com"}]
     },
     {
       title: "ヘルプとガイド",
@@ -41,7 +41,7 @@ export default function Footer() {
         ))}
       </ul>
       <div className="copy-right">
-        © Ticket Village 2019
+        © Ticket Linker 2023
       </div>
     </footer>
   )
