@@ -2,6 +2,7 @@
 
 Next.jsを使用して、チケットが売買できrサイトを作成します。<br>
 他の売買サイトに比べて表示速度とUI/UXを向上させることがゴールです。
+![スクリーンショット 2023-10-29 22 55 38](https://github.com/kouhei-github/transaction-ticket-app/assets/49782052/b3b2c599-d9f6-4275-98d8-75a7890d0e5c)
 
 ### 技術スタック
 Nodejs v18.3.0 <br>
