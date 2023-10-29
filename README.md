@@ -4,8 +4,8 @@ Next.jsを使用して、チケットが売買できrサイトを作成します
 他の売買サイトに比べて表示速度とUI/UXを向上させることがゴールです。
 
 ### 技術スタック
-Nodejs v18.3.0<br>
-Next.js(13)<br>
+Nodejs v18.3.0 <br>
+Next.js 13.5.2 <br>
 Tailwind CSS <br>
 Vercel<br>
 ---
